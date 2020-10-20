@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FileCopy"
         mc:Ignorable="d"
-        Title="复制代码文件 By PHP" Height="350" Width="525" Icon="favicon-20200302021741835.ico">
+        Title="复制代码文件 By PHP" Height="350" Width="525" Icon="favicon.ico">
     <Grid>
         <TextBox x:Name="source" HorizontalAlignment="Left" Height="25" Margin="10,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="497" Grid.ColumnSpan="3"/>
         <TextBlock HorizontalAlignment="Left" Margin="10,8,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="来源目录" Height="18"/>
